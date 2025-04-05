@@ -28,7 +28,10 @@ WHERE Salary = (
 );
 
 -- Q8) Delete an employee record (e.g., delete EmployeeID 110)
-DELETE FROM Employees 
+DELETE FROM Payroll
+WHERE EmployeeID = 110;
+
+DELETE FROM Employees
 WHERE EmployeeID = 110;
 
 -- Q9) Retrieve employees who have been with the company for more than 5 years
