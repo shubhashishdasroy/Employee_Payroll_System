@@ -14,7 +14,7 @@
 - Generate reports for salaries and departmental summaries.
 
 ## Technical Requirements:
-- **Database:** MySQL for robust data management.
+- **Database:** Oracle for robust data management.
 - **Other Tools:** Git for version control.
 
 ## Future Enhancements:
